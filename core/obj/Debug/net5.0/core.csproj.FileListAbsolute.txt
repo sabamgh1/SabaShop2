@@ -1,0 +1,36 @@
+C:\Users\Farshad\Desktop\Shop\core\bin\Debug\net5.0\core.deps.json
+C:\Users\Farshad\Desktop\Shop\core\bin\Debug\net5.0\core.dll
+C:\Users\Farshad\Desktop\Shop\core\bin\Debug\net5.0\ref\core.dll
+C:\Users\Farshad\Desktop\Shop\core\bin\Debug\net5.0\core.pdb
+C:\Users\Farshad\Desktop\Shop\core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\Shop\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\Shop\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\Shop\core\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\Shop\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\Shop\core\obj\Debug\net5.0\core.dll
+C:\Users\Farshad\Desktop\Shop\core\obj\Debug\net5.0\ref\core.dll
+C:\Users\Farshad\Desktop\Shop\core\obj\Debug\net5.0\core.pdb
+C:\Users\Farshad\Desktop\Shop - Copy\core\bin\Debug\net5.0\core.deps.json
+C:\Users\Farshad\Desktop\Shop - Copy\core\bin\Debug\net5.0\core.dll
+C:\Users\Farshad\Desktop\Shop - Copy\core\bin\Debug\net5.0\ref\core.dll
+C:\Users\Farshad\Desktop\Shop - Copy\core\bin\Debug\net5.0\core.pdb
+C:\Users\Farshad\Desktop\Shop - Copy\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\Shop - Copy\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\Shop - Copy\core\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\Shop - Copy\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\Shop - Copy\core\obj\Debug\net5.0\core.dll
+C:\Users\Farshad\Desktop\Shop - Copy\core\obj\Debug\net5.0\ref\core.dll
+C:\Users\Farshad\Desktop\Shop - Copy\core\obj\Debug\net5.0\core.pdb
+C:\Users\Farshad\Desktop\Shop - Copy\core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+C:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+C:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\obj\Debug\net5.0\core.dll
+C:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\obj\Debug\net5.0\ref\core.dll
+C:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\obj\Debug\net5.0\core.pdb
+c:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\bin\Debug\net5.0\core.deps.json
+c:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\bin\Debug\net5.0\core.dll
+c:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\bin\Debug\net5.0\ref\core.dll
+c:\Users\Windows10\Downloads\Shop-Copy-master (2)\Shop-Copy-master\core\bin\Debug\net5.0\core.pdb

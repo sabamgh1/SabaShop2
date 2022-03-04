@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJDtHcEvQ49eW3o4G/KZcUMvVLO7Towo/kJ5KwJebhnObwT/59DFW2cZZTkeb0bbpJ8W1t4suFX+nAgiM67AzA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Windows10\\Downloads\\Shop-Copy-master (2)\\Shop-Copy-master\\core\\core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Windows10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
